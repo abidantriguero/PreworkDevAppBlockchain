@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-pragma solidity >=0.7.0 <0.9.0;
+pragma solidity >=0.7.0 <0.9.0; //version de compilador
 
 contract Suma {
     function sumar(int numero1, int numero2) public pure returns (int) {
